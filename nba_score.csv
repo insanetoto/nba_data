@@ -1,0 +1,775 @@
+星期 ,日期,队伍1,让分,预期胜率,得分,队伍2,让分2,预期胜率,得分2,分差,是否穿盘
+Friday, Feb. 2,Pacers , ,0.37,126,Hornets ,-3,0.63,133,7,YES
+Friday, Feb. 2,Hawks , ,0.12,110,Celtics ,-12,0.88,119,9,NO
+Friday, Feb. 2,Lakers , ,0.38,102,Nets ,-3,0.62,99,-3,NO
+Friday, Feb. 2,Trail Blazers , ,0.31,105,Raptors ,-5,0.69,130,25,YES
+Friday, Feb. 2,Heat , ,0.33,97,76ers ,-4.5,0.67,103,6,YES
+Friday, Feb. 2,Knicks , ,0.34,90,Bucks ,-4,0.66,92,2,NO
+Friday, Feb. 2,Pelicans , ,0.28,114,Thunder ,-5.5,0.72,100,-14,NO
+Friday, Feb. 2,Suns , ,0.41,97,Jazz ,-2,0.59,129,32,YES
+Friday, Feb. 2,Kings , ,0.17,104,Warriors ,-10,0.83,119,15,YES
+Thursday, Feb. 1,Grizzlies , ,0.25,102,Pistons ,-7,0.75,104,2,NO
+Thursday, Feb. 1,Wizards , ,0.45,122,Raptors ,-1,0.55,119,-3,NO
+Thursday, Feb. 1,Rockets , ,0.5,102,Spurs ,0,0.5,91,-11,NO
+Thursday, Feb. 1,Bucks , ,0.27,89,T'wolves,-6,0.73,108,19,YES
+Thursday, Feb. 1,Thunder , ,0.47,124,Nuggets ,-0.5,0.53,127,3,YES
+Wednesday, Jan. 31,Magic , ,0.47,127,Lakers ,-0.5,0.53,105,-22,NO
+Wednesday, Jan. 31,Grizzlies , ,0.24,101,Pacers ,-7,0.76,105,4,NO
+Wednesday, Jan. 31,Hawks , ,0.44,110,Hornets ,-1.5,0.56,123,13,YES
+Wednesday, Jan. 31,Heat , ,0.39,89,Cavaliers ,-2.5,0.61,91,2,NO
+Wednesday, Jan. 31,Nets , ,0.33,116,76ers ,-4.5,0.67,108,-8,NO
+Wednesday, Jan. 31,Knicks , ,0.19,73,Celtics ,-9,0.81,103,30,YES
+Wednesday, Jan. 31,Bulls , ,0.23,108,Trail Blazers ,-7.5,0.77,124,16,YES
+Wednesday, Jan. 31,Mavericks , ,0.48,88,Suns ,-0.5,0.52,102,14,YES
+Tuesday, Jan. 30,Wizards , ,0.46,102,Thunder ,-1,0.54,96,-6,NO
+Tuesday, Jan. 30,Nets , ,0.3,95,Knicks ,-5,0.7,111,16,YES
+Tuesday, Jan. 30,T'wolves, ,0.25,104,Raptors ,-6.5,0.75,109,5,NO
+Tuesday, Jan. 30,Cavaliers , PK,0.5,114,Pistons ,0,0.5,125,11,YES
+Tuesday, Jan. 30,Magic , ,0.09,107,Rockets ,-14.5,0.91,114,7,NO
+Tuesday, Jan. 30,Kings , ,0.14,114,Pelicans ,-11.5,0.86,103,-11,NO
+Tuesday, Jan. 30,Nuggets , ,0.22,104,Spurs ,-7.5,0.78,106,2,NO
+Tuesday, Jan. 30,Jazz , ,0.33,129,Warriors ,-4.5,0.67,99,-30,NO
+Tuesday, Jan. 30,Trail Blazers , ,0.37,104,Clippers ,-3.5,0.63,96,-8,NO
+Monday, Jan. 29,Hornets , ,0.35,96,Pacers ,-4,0.65,105,9,YES
+Monday, Jan. 29,Hawks , ,0.28,105,T'wolves,-5.5,0.72,100,-5,NO
+Monday, Jan. 29,76ers , ,0.43,95,Bucks ,-1.5,0.57,107,12,YES
+Monday, Jan. 29,Suns , ,0.24,109,Grizzlies ,-7,0.76,120,11,YES
+Monday, Jan. 29,Heat , ,0.45,95,Mavericks ,-1,0.55,88,-7,NO
+Monday, Jan. 29,Celtics , ,0.39,111,Nuggets ,-2.5,0.61,110,-1,NO
+Sunday, Jan. 28,Bucks , ,0.48,110,Bulls ,-0.5,0.52,96,-14,NO
+Sunday, Jan. 28,Suns , ,0.08,102,Rockets ,-14.5,0.92,113,11,NO
+Sunday, Jan. 28,Clippers , ,0.34,112,Pelicans ,-4,0.66,103,-9,NO
+Sunday, Jan. 28,Pistons , ,0.2,104,Cavaliers ,-8.5,0.8,121,17,YES
+Sunday, Jan. 28,Lakers , ,0.15,111,Raptors ,-11,0.85,123,12,YES
+Sunday, Jan. 28,76ers , ,0.35,112,Thunder ,-4,0.65,122,10,YES
+Sunday, Jan. 28,Kings , ,0.12,98,Spurs ,-12.5,0.88,113,15,YES
+Saturday, Jan. 27,Pistons , ,0.42,108,Thunder ,-2,0.58,121,13,YES
+Saturday, Jan. 27,Magic , ,0.24,112,Pacers ,-7,0.76,114,2,NO
+Saturday, Jan. 27,Hornets , ,0.31,91,Heat ,-5,0.69,95,4,NO
+Saturday, Jan. 27,Hawks , ,0.38,104,Wizards ,-3,0.62,129,25,YES
+Saturday, Jan. 27,Celtics , ,0.19,105,Warriors ,-9,0.81,109,4,NO
+Saturday, Jan. 27,Nets , ,0.11,97,T'wolves,-12.5,0.89,111,14,YES
+Saturday, Jan. 27,Mavericks , ,0.19,89,Nuggets ,-9,0.81,91,2,NO
+Friday, Jan. 26,Hawks , ,0.2,110,Hornets ,-8.5,0.8,121,11,YES
+Friday, Jan. 26,Pacers , ,0.34,108,Cavaliers ,-4,0.66,115,7,YES
+Friday, Jan. 26,Jazz , ,0.18,97,Raptors ,-9.5,0.82,93,-4,NO
+Friday, Jan. 26,Nets , ,0.25,91,Bucks ,-7,0.75,116,25,YES
+Friday, Jan. 26,Pelicans , ,0.46,115,Rockets ,-1,0.54,113,-2,NO
+Friday, Jan. 26,Clippers , PK,0.5,109,Grizzlies ,0,0.5,100,-9,NO
+Friday, Jan. 26,Lakers , ,0.35,108,Bulls ,-4,0.65,103,-5,NO
+Friday, Jan. 26,76ers , ,0.29,97,Spurs ,-5.5,0.71,78,-19,NO
+Friday, Jan. 26,Trail Blazers , ,0.45,107,Mavericks ,-1,0.55,93,-14,NO
+Friday, Jan. 26,Knicks , ,0.37,107,Suns ,-3,0.63,85,-22,NO
+Thursday, Jan. 25,Kings , ,0.16,89,Heat ,-10,0.84,88,-1,NO
+Thursday, Jan. 25,Wizards , ,0.22,112,Thunder ,-8,0.78,121,9,YES
+Thursday, Jan. 25,Knicks , ,0.22,118,Nuggets ,-7.5,0.78,130,12,YES
+Thursday, Jan. 25,T'wolves, ,0.18,113,Warriors ,-9.5,0.82,126,13,YES
+Wednesday, Jan. 24,Bulls , ,0.23,101,76ers ,-7,0.77,115,14,YES
+Wednesday, Jan. 24,Pelicans , ,0.4,101,Hornets ,-2.5,0.6,96,-5,NO
+Wednesday, Jan. 24,Suns , ,0.22,101,Pacers ,-8,0.78,116,15,YES
+Wednesday, Jan. 24,Jazz , ,0.36,98,Pistons ,-3.5,0.64,95,-3,NO
+Wednesday, Jan. 24,Hawks , ,0.27,93,Raptors ,-6,0.73,108,15,YES
+Wednesday, Jan. 24,Mavericks , ,0.35,97,Rockets ,-4,0.65,104,7,YES
+Wednesday, Jan. 24,Spurs , ,0.5,108,Grizzlies ,0,0.5,85,-23,NO
+Wednesday, Jan. 24,Trail Blazers , ,0.49,123,T'wolves,-0.5,0.51,114,-9,NO
+Wednesday, Jan. 24,Celtics , ,0.34,113,Clippers ,-4,0.66,102,-11,NO
+Tuesday, Jan. 23,Kings , ,0.23,105,Magic ,-7.5,0.77,99,-6,NO
+Tuesday, Jan. 23,Nets , ,0.14,108,Thunder ,-11.5,0.86,109,1,NO
+Tuesday, Jan. 23,Cavaliers , ,0.31,102,Spurs ,-5,0.69,114,12,YES
+Tuesday, Jan. 23,Lakers , ,0.44,108,Celtics ,-1.5,0.56,107,-1,NO
+Tuesday, Jan. 23,Knicks , ,0.1,112,Warriors ,-13.5,0.9,123,11,NO
+Monday, Jan. 22,Kings , ,0.14,107,Hornets ,-11,0.86,112,5,NO
+Monday, Jan. 22,Hawks , ,0.47,104,Jazz ,-1,0.53,90,-14,NO
+Monday, Jan. 22,Bulls , ,0.24,128,Pelicans ,-7,0.76,132,4,NO
+Monday, Jan. 22,Heat , ,0.19,90,Rockets ,-9,0.81,99,9,NO
+Monday, Jan. 22,Grizzlies , ,0.47,105,76ers ,-1,0.53,101,-4,NO
+Monday, Jan. 22,Suns , ,0.24,105,Bucks ,-7,0.76,109,4,NO
+Monday, Jan. 22,Wizards , ,0.47,75,Mavericks ,-1,0.53,98,23,YES
+Monday, Jan. 22,Trail Blazers , ,0.33,101,Nuggets ,-4.5,0.67,104,3,NO
+Monday, Jan. 22,T'wolves, ,0.44,126,Clippers ,-1.5,0.56,118,-8,NO
+Sunday, Jan. 21,Magic , ,0.13,103,Celtics ,-11.5,0.87,95,-8,NO
+Sunday, Jan. 21,Knicks , ,0.42,107,Lakers ,-2,0.58,127,20,YES
+Sunday, Jan. 21,Nets , ,0.26,101,Pistons ,-6.5,0.74,100,-1,NO
+Sunday, Jan. 21,Pacers , ,0.25,94,Spurs ,-7,0.75,86,-8,NO
+Saturday, Jan. 20,Thunder , ,0.39,148,Cavaliers ,-3,0.61,124,-24,NO
+Saturday, Jan. 20,Bulls , ,0.42,113,Hawks ,-2,0.58,97,-16,NO
+Saturday, Jan. 20,Grizzlies , ,0.2,104,Pelicans ,-8.5,0.8,111,7,NO
+Saturday, Jan. 20,Heat , ,0.29,106,Hornets ,-5.5,0.71,105,-1,NO
+Saturday, Jan. 20,Bucks , ,0.31,94,76ers ,-5,0.69,116,22,YES
+Saturday, Jan. 20,Warriors , ,0.48,108,Rockets ,-0.5,0.52,116,8,YES
+Saturday, Jan. 20,Clippers , ,0.5,113,Jazz ,0,0.5,125,12,YES
+Saturday, Jan. 20,Raptors , ,0.36,109,T'wolves,-3.5,0.64,115,6,YES
+Saturday, Jan. 20,Mavericks , ,0.28,108,Trail Blazers ,-6,0.72,117,9,YES
+Friday, Jan. 19,Spurs , ,0.29,83,Raptors ,-5.5,0.71,86,3,NO
+Friday, Jan. 19,Nets , ,0.45,101,Heat ,-1.5,0.55,95,-6,NO
+Friday, Jan. 19,Kings , ,0.22,88,Grizzlies ,-8,0.78,106,18,YES
+Friday, Jan. 19,Wizards , ,0.38,122,Pistons ,-3,0.62,112,-10,NO
+Friday, Jan. 19,Suns , ,0.15,108,Nuggets ,-10.5,0.85,100,-8,NO
+Friday, Jan. 19,Pacers , ,0.46,86,Lakers ,-1,0.54,99,13,YES
+Friday, Jan. 19,Knicks , ,0.26,117,Jazz ,-6.5,0.74,115,-2,NO
+Thursday, Jan. 18,Magic , ,0.14,103,Cavaliers ,-11,0.86,104,1,NO
+Thursday, Jan. 18,76ers , ,0.26,89,Celtics ,-6.5,0.74,80,-9,NO
+Thursday, Jan. 18,T'wolves, ,0.33,98,Rockets ,-4.5,0.67,116,18,YES
+Thursday, Jan. 18,Pacers , ,0.37,86,Trail Blazers ,-3.5,0.63,100,14,YES
+Wednesday, Jan. 17,Wizards , ,0.38,109,Hornets ,-3,0.62,133,24,YES
+Wednesday, Jan. 17,Pistons , ,0.19,91,Raptors ,-9,0.81,96,5,NO
+Wednesday, Jan. 17,Hawks , ,0.46,94,Pelicans ,-1,0.54,93,-1,NO
+Wednesday, Jan. 17,Nets , ,0.36,95,Spurs ,-3.5,0.64,100,5,YES
+Wednesday, Jan. 17,Bulls , ,0.22,112,Warriors ,-7.5,0.78,119,7,NO
+Wednesday, Jan. 17,Lakers , ,0.15,90,Thunder ,-10.5,0.85,114,24,YES
+Wednesday, Jan. 17,Heat , ,0.37,106,Bucks ,-3.5,0.63,101,-5,NO
+Wednesday, Jan. 17,Knicks , ,0.39,99,Grizzlies ,-2.5,0.61,105,6,YES
+Wednesday, Jan. 17,Kings , ,0.4,105,Jazz ,-2.5,0.6,120,15,YES
+Wednesday, Jan. 17,Nuggets , ,0.26,104,Clippers ,-6.5,0.74,109,5,NO
+Tuesday, Jan. 16,Magic , ,0.25,108,T'wolves,-6.5,0.75,102,-6,NO
+Tuesday, Jan. 16,Pelicans , ,0.28,116,Celtics ,-6,0.72,113,-3,NO
+Tuesday, Jan. 16,Mavericks , ,0.23,102,Nuggets ,-7.5,0.77,105,3,NO
+Tuesday, Jan. 16,Suns , ,0.21,111,Trail Blazers ,-8,0.79,118,7,NO
+Monday, Jan. 15,Hornets , ,0.34,118,Pistons ,-4,0.66,107,-11,NO
+Monday, Jan. 15,76ers , ,0.42,117,Raptors ,-2,0.58,111,-6,NO
+Monday, Jan. 15,Bucks , ,0.25,104,Wizards ,-6.5,0.75,95,-9,NO
+Monday, Jan. 15,Knicks , ,0.33,119,Nets ,-4.5,0.67,104,-15,NO
+Monday, Jan. 15,Hawks , ,0.32,102,Spurs ,-4.5,0.68,99,-3,NO
+Monday, Jan. 15,Heat , ,0.43,111,Bulls ,-2,0.57,119,8,YES
+Monday, Jan. 15,Lakers , ,0.36,114,Grizzlies ,-3.5,0.64,123,9,YES
+Monday, Jan. 15,Cavaliers , ,0.41,108,Warriors ,-2,0.59,118,10,YES
+Monday, Jan. 15,Kings , ,0.11,88,Thunder ,-13,0.89,95,7,NO
+Monday, Jan. 15,Pacers , ,0.26,109,Jazz ,-6.5,0.74,94,-15,NO
+Monday, Jan. 15,Clippers , ,0.48,113,Rockets ,-0.5,0.52,102,-11,NO
+Sunday, Jan. 14,Bucks , ,0.36,79,Heat ,-3.5,0.64,97,18,YES
+Sunday, Jan. 14,Pelicans , PK,0.5,123,Knicks ,0,0.5,118,-5,NO
+Sunday, Jan. 14,Pacers , ,0.46,120,Suns ,-1,0.54,97,-23,NO
+Sunday, Jan. 14,Trail Blazers , ,0.22,103,T'wolves,-7.5,0.78,120,17,YES
+Saturday, Jan. 13,Lakers , ,0.27,107,Mavericks ,-6,0.73,101,-6,NO
+Saturday, Jan. 13,Kings , ,0.14,105,Clippers ,-11,0.86,126,21,YES
+Saturday, Jan. 13,Hornets , ,0.47,91,Thunder ,-0.5,0.53,101,10,YES
+Saturday, Jan. 13,Nets , ,0.22,113,Wizards ,-7.5,0.78,119,6,NO
+Saturday, Jan. 13,Warriors , ,0.39,127,Raptors ,-3,0.61,125,-2,NO
+Saturday, Jan. 13,Bulls , ,0.49,107,Pistons ,0,0.51,105,-2,NO
+Saturday, Jan. 13,Nuggets , ,0.25,80,Spurs ,-7,0.75,112,32,YES
+Friday, Jan. 12,Cavaliers , ,0.45,95,Pacers ,-1,0.55,97,2,YES
+Friday, Jan. 12,Magic , ,0.17,119,Wizards ,-10,0.83,125,6,NO
+Friday, Jan. 12,Jazz , ,0.38,88,Hornets ,-3,0.62,99,11,YES
+Friday, Jan. 12,Nets , ,0.41,110,Hawks ,-2,0.59,105,-5,NO
+Friday, Jan. 12,Bucks , ,0.36,94,Warriors ,-3.5,0.64,108,14,YES
+Friday, Jan. 12,Knicks , ,0.16,108,T'wolves,-10.5,0.84,118,10,NO
+Friday, Jan. 12,Trail Blazers , ,0.37,113,Pelicans ,-3.5,0.63,119,6,YES
+Friday, Jan. 12,Grizzlies , ,0.19,78,Nuggets ,-9,0.81,87,9,NO
+Friday, Jan. 12,Suns , ,0.29,95,Rockets ,-5.5,0.71,112,17,YES
+Thursday, Jan. 11,76ers , ,0.38,103,Celtics ,-3,0.62,114,11,YES
+Thursday, Jan. 11,Cavaliers , ,0.29,99,Raptors ,-5.5,0.71,133,34,YES
+Thursday, Jan. 11,Kings , ,0.39,115,Clippers ,-2.5,0.61,121,6,YES
+Thursday, Jan. 11,Lakers , ,0.31,93,Spurs ,-5,0.69,81,-12,NO
+Wednesday, Jan. 10,Mavericks , ,0.26,115,Hornets ,-6.5,0.74,111,-4,NO
+Wednesday, Jan. 10,Heat , ,0.31,114,Pacers ,-5,0.69,106,-8,NO
+Wednesday, Jan. 10,Jazz , ,0.31,107,Wizards ,-5,0.69,104,-3,NO
+Wednesday, Jan. 10,Bulls , ,0.32,122,Knicks ,-4.5,0.68,119,-3,NO
+Wednesday, Jan. 10,Pistons , ,0.43,114,Nets ,-1.5,0.57,80,-34,NO
+Wednesday, Jan. 10,Grizzlies , ,0.47,105,Pelicans ,-0.5,0.53,102,-3,NO
+Wednesday, Jan. 10,Thunder , ,0.26,88,T'wolves,-6.5,0.74,104,16,YES
+Wednesday, Jan. 10,Magic , ,0.15,103,Bucks ,-11,0.85,110,7,NO
+Wednesday, Jan. 10,Trail Blazers , ,0.18,112,Rockets ,-9.5,0.82,121,9,NO
+Wednesday, Jan. 10,Hawks , ,0.11,110,Nuggets ,-13,0.89,97,-13,NO
+Wednesday, Jan. 10,Clippers , ,0.12,125,Warriors ,-12.5,0.88,106,-19,NO
+Tuesday, Jan. 9,Heat , ,0.21,90,Raptors ,-8,0.79,89,-1,NO
+Tuesday, Jan. 9,Trail Blazers , ,0.23,117,Thunder ,-7.5,0.77,106,-11,NO
+Tuesday, Jan. 9,Magic , ,0.24,99,Mavericks ,-7,0.76,114,15,YES
+Tuesday, Jan. 9,Kings , ,0.27,86,Lakers ,-6,0.73,99,13,YES
+Monday, Jan. 8,Bucks , ,0.43,96,Pacers ,-2,0.57,109,13,YES
+Monday, Jan. 8,Nets , ,0.33,113,Raptors ,-4.5,0.67,114,1,NO
+Monday, Jan. 8,Cavaliers , ,0.35,99,T'wolves,-3.5,0.65,127,28,YES
+Monday, Jan. 8,Pistons , ,0.32,109,Pelicans ,-4.5,0.68,112,3,NO
+Monday, Jan. 8,Bulls , ,0.31,107,Rockets ,-5,0.69,116,9,YES
+Monday, Jan. 8,Kings , ,0.34,100,Spurs ,-4,0.66,107,7,YES
+Monday, Jan. 8,Hawks , ,0.15,107,Clippers ,-10.5,0.85,108,1,NO
+Monday, Jan. 8,Nuggets , ,0.17,114,Warriors ,-10,0.83,124,10,NO
+Sunday, Jan. 7,Jazz , ,0.38,102,Heat ,-3,0.62,103,1,NO
+Sunday, Jan. 7,Knicks , ,0.32,100,Mavericks ,-4.5,0.68,96,-4,NO
+Sunday, Jan. 7,Suns , ,0.29,114,Thunder ,-5.5,0.71,100,-14,NO
+Sunday, Jan. 7,Spurs , PK,0.5,110,Trail Blazers ,0,0.5,111,1,YES
+Sunday, Jan. 7,Hawks , ,0.35,113,Lakers ,-4,0.65,132,19,YES
+Saturday, Jan. 6,Clippers , ,0.31,105,Warriors ,-5,0.69,121,16,YES
+Saturday, Jan. 6,Nets , ,0.46,85,Celtics ,-1,0.54,87,2,YES
+Saturday, Jan. 6,Bulls , ,0.25,86,Pacers ,-6.5,0.75,125,39,YES
+Saturday, Jan. 6,Magic , ,0.3,127,Cavaliers ,-5,0.7,131,4,NO
+Saturday, Jan. 6,Pistons , ,0.33,108,Rockets ,-4.5,0.67,101,-7,NO
+Saturday, Jan. 6,Bucks , ,0.31,110,Wizards ,-5,0.69,103,-7,NO
+Saturday, Jan. 6,Pelicans , ,0.35,98,T'wolves,-4,0.65,116,18,YES
+Saturday, Jan. 6,Kings , ,0.35,106,Nuggets ,-3.5,0.65,98,-8,NO
+Friday, Jan. 5,Pistons , ,0.34,78,76ers ,-4,0.66,114,36,YES
+Friday, Jan. 5,T'wolves, ,0.36,84,Celtics ,-3.5,0.64,91,7,YES
+Friday, Jan. 5,Knicks , ,0.31,103,Heat ,-5,0.69,107,4,NO
+Friday, Jan. 5,Bucks , ,0.46,110,Raptors ,-1,0.54,129,19,YES
+Friday, Jan. 5,Bulls , ,0.28,127,Mavericks ,-5.5,0.72,124,-3,NO
+Friday, Jan. 5,Suns , ,0.14,89,Spurs ,-11,0.86,103,14,YES
+Friday, Jan. 5,Jazz , ,0.23,91,Nuggets ,-7.5,0.77,99,8,YES
+Friday, Jan. 5,Grizzlies , ,0.44,100,Wizards ,-1.5,0.56,102,2,YES
+Friday, Jan. 5,Hawks , ,0.21,89,Trail Blazers ,-8,0.79,110,21,YES
+Friday, Jan. 5,Lakers , ,0.46,94,Hornets ,-1,0.54,108,14,YES
+Thursday, Jan. 4,Warriors , ,0.47,124,Rockets ,-1,0.53,114,-10,NO
+Thursday, Jan. 4,Thunder , ,0.43,127,Clippers ,-1.5,0.57,117,-10,NO
+Wednesday, Jan. 3,Magic , ,0.23,98,Rockets ,-7.5,0.77,116,18,YES
+Wednesday, Jan. 3,Knicks , ,0.2,103,Wizards ,-8.5,0.8,121,18,YES
+Wednesday, Jan. 3,Spurs , ,0.47,106,76ers ,-0.5,0.53,112,6,YES
+Wednesday, Jan. 3,Pistons , ,0.4,104,Heat ,-2.5,0.6,111,7,YES
+Wednesday, Jan. 3,Nets , ,0.4,98,T'wolves,-2.5,0.6,97,-1,NO
+Wednesday, Jan. 3,Cavaliers , ,0.33,88,Celtics ,-4.5,0.67,102,14,YES
+Wednesday, Jan. 3,Pacers , ,0.31,101,Bucks ,-5,0.69,122,21,YES
+Wednesday, Jan. 3,Bulls , ,0.33,115,Raptors ,-4.5,0.67,124,9,YES
+Wednesday, Jan. 3,Mavericks , ,0.29,122,Warriors ,-5.5,0.71,125,3,NO
+Wednesday, Jan. 3,Pelicans , ,0.31,108,Jazz ,-5,0.69,98,-10,NO
+Wednesday, Jan. 3,Suns , ,0.1,111,Nuggets ,-13.5,0.9,134,23,YES
+Wednesday, Jan. 3,Lakers , ,0.33,96,Thunder ,-4,0.67,133,37,YES
+Tuesday, Jan. 2,Trail Blazers , ,0.2,110,Cavaliers ,-8.5,0.8,127,17,YES
+Tuesday, Jan. 2,Knicks , ,0.41,91,Spurs ,-2,0.59,100,9,YES
+Tuesday, Jan. 2,Hawks , ,0.32,103,Suns ,-4.5,0.68,104,1,NO
+Tuesday, Jan. 2,Kings , ,0.44,111,Hornets ,-1.5,0.56,131,20,YES
+Tuesday, Jan. 2,Grizzlies , ,0.25,105,Clippers ,-7,0.75,113,8,YES
+Monday, Jan. 1 (New Year's Day),Bucks , ,0.22,127,Raptors ,-8,0.78,131,4,NO
+Monday, Jan. 1 (New Year's Day),Magic , ,0.34,95,Nets ,-4,0.66,98,3,NO
+Monday, Jan. 1 (New Year's Day),Lakers , ,0.14,96,T'wolves,-11,0.86,114,18,YES
+Monday, Jan. 1 (New Year's Day),Bulls , ,0.47,120,Trail Blazers ,-0.5,0.53,124,4,YES
+Sunday, Dec. 31 (New Year's Eve),Bulls , ,0.23,110,Wizards ,-7.5,0.77,114,4,NO
+Sunday, Dec. 31 (New Year's Eve),Pacers , ,0.49,90,T'wolves,0,0.51,107,17,YES
+Sunday, Dec. 31 (New Year's Eve),Nets , ,0.18,105,Celtics ,-9,0.82,108,3,NO
+Sunday, Dec. 31 (New Year's Eve),Hornets , ,0.33,98,Clippers ,-4.5,0.67,106,8,YES
+Sunday, Dec. 31 (New Year's Eve),Mavericks , ,0.19,116,Thunder ,-9,0.81,113,-3,NO
+Sunday, Dec. 31 (New Year's Eve),Lakers , ,0.11,142,Rockets ,-13,0.89,148,6,NO
+Sunday, Dec. 31 (New Year's Eve),Grizzlies , ,0.36,114,Kings ,-3.5,0.64,96,-18,NO
+Sunday, Dec. 31 (New Year's Eve),76ers , ,0.42,123,Suns ,-2,0.58,110,-13,NO
+Saturday, Dec. 30,Heat , ,0.42,117,Magic ,-2,0.58,111,-6,NO
+Saturday, Dec. 30,Knicks , ,0.32,105,Pelicans ,-4.5,0.68,103,-2,NO
+Saturday, Dec. 30,Pistons , ,0.45,93,Spurs ,-1,0.55,79,-14,NO
+Saturday, Dec. 30,Hawks , ,0.35,104,Trail Blazers ,-4,0.65,89,-15,NO
+Saturday, Dec. 30,Cavaliers , ,0.45,101,Jazz ,-1,0.55,104,3,YES
+Saturday, Dec. 30,Grizzlies , ,0.1,128,Warriors ,-13.5,0.9,141,13,NO
+Saturday, Dec. 30,76ers , ,0.19,107,Nuggets ,-9,0.81,102,-5,NO
+Friday, Dec. 29,Wizards , ,0.47,121,Rockets ,-0.5,0.53,103,-18,NO
+Friday, Dec. 29,Hawks , ,0.1,98,Raptors ,-13.5,0.9,111,13,NO
+Friday, Dec. 29,Nets , ,0.25,111,Heat ,-6.5,0.75,87,-24,NO
+Friday, Dec. 29,Mavericks , ,0.25,128,Pelicans ,-7,0.75,120,-8,NO
+Friday, Dec. 29,Pacers , ,0.47,107,Bulls ,-0.5,0.53,119,12,YES
+Friday, Dec. 29,Bucks , ,0.17,97,Thunder ,-9.5,0.83,95,-2,NO
+Friday, Dec. 29,Suns , ,0.37,111,Kings ,-3.5,0.63,101,-10,NO
+Friday, Dec. 29,Hornets , ,0.08,111,Warriors ,-14.5,0.92,100,-11,NO
+Friday, Dec. 29,Clippers , PK,0.5,121,Lakers ,0,0.5,106,-15,NO
+Thursday, Dec. 28,Magic , ,0.45,102,Pistons ,-1,0.55,89,-13,NO
+Thursday, Dec. 28,Celtics , ,0.43,99,Rockets ,-1.5,0.57,98,-1,NO
+Thursday, Dec. 28,T'wolves, ,0.43,96,Bucks ,-1.5,0.57,102,6,YES
+Thursday, Dec. 28,Knicks , ,0.14,107,Spurs ,-11,0.86,119,12,YES
+Thursday, Dec. 28,76ers , ,0.32,110,Trail Blazers ,-4.5,0.68,114,4,NO
+Wednesday, Dec. 27,Hornets , ,0.49,91,Celtics ,-0.5,0.51,102,11,YES
+Wednesday, Dec. 27,Mavericks , ,0.27,98,Pacers ,-6,0.73,94,-4,NO
+Wednesday, Dec. 27,Hawks , ,0.34,113,Wizards ,-4,0.66,99,-14,NO
+Wednesday, Dec. 27,Nets , ,0.17,113,Pelicans ,-9.5,0.83,128,15,YES
+Wednesday, Dec. 27,Nuggets , ,0.31,125,T'wolves,-5,0.69,128,3,NO
+Wednesday, Dec. 27,Knicks , ,0.49,87,Bulls ,-0.5,0.51,92,5,YES
+Wednesday, Dec. 27,Raptors , ,0.34,107,Thunder ,-4,0.66,124,17,YES
+Wednesday, Dec. 27,Kings , ,0.2,109,Cavaliers ,-8.5,0.8,95,-14,NO
+Wednesday, Dec. 27,Grizzlies , ,0.26,109,Lakers ,-6.5,0.74,99,-10,NO
+Wednesday, Dec. 27,Jazz , ,0.1,101,Warriors ,-13.5,0.9,126,25,YES
+Tuesday, Dec. 26,Pacers , ,0.41,83,Pistons ,-2.5,0.59,107,24,YES
+Tuesday, Dec. 26,Mavericks , ,0.32,98,Raptors ,-4.5,0.68,93,-5,NO
+Tuesday, Dec. 26,Magic , ,0.22,89,Heat ,-7.5,0.78,107,18,YES
+Tuesday, Dec. 26,Bulls , ,0.21,115,Bucks ,-8,0.79,106,-9,NO
+Tuesday, Dec. 26,Nets , ,0.15,97,Spurs ,-10.5,0.85,109,12,YES
+Tuesday, Dec. 26,Grizzlies , ,0.36,97,Suns ,-3.5,0.64,99,2,NO
+Tuesday, Dec. 26,Jazz , ,0.25,83,Nuggets ,-6.5,0.75,107,24,YES
+Tuesday, Dec. 26,Kings , ,0.22,95,Clippers ,-7.5,0.78,122,27,YES
+Monday, Dec. 25 (Christmas Day),76ers , ,0.37,105,Knicks ,-3,0.63,98,-7,NO
+Monday, Dec. 25 (Christmas Day),Cavaliers , ,0.22,92,Warriors ,-8,0.78,99,7,NO
+Monday, Dec. 25 (Christmas Day),Wizards , ,0.29,111,Celtics ,-5.5,0.71,103,-8,NO
+Monday, Dec. 25 (Christmas Day),Rockets , ,0.48,107,Thunder ,-0.5,0.52,112,5,YES
+Monday, Dec. 25 (Christmas Day),Lakers , ,0.43,104,T'wolves,-1.5,0.57,121,17,YES
+Saturday, Dec. 23,76ers , ,0.17,86,Raptors ,-9.5,0.83,102,16,YES
+Saturday, Dec. 23,Nets , ,0.19,119,Pacers ,-9,0.81,123,4,NO
+Saturday, Dec. 23,Bucks , ,0.45,106,Hornets ,-1.5,0.55,111,5,YES
+Saturday, Dec. 23,Magic , ,0.2,103,Wizards ,-8.5,0.8,130,27,YES
+Saturday, Dec. 23,Bulls , ,0.16,92,Celtics ,-10,0.84,117,25,YES
+Saturday, Dec. 23,Hawks , ,0.47,112,Mavericks ,-0.5,0.53,107,-5,NO
+Saturday, Dec. 23,Clippers , ,0.47,112,Grizzlies ,-1,0.53,115,3,YES
+Saturday, Dec. 23,Pelicans , ,0.39,109,Heat ,-2.5,0.61,94,-15,NO
+Saturday, Dec. 23,Thunder , ,0.3,103,Jazz ,-5,0.7,89,-14,NO
+Saturday, Dec. 23,Nuggets , ,0.13,96,Warriors ,-12,0.87,81,-15,NO
+Saturday, Dec. 23,Suns , ,0.38,106,T'wolves,-3,0.62,115,9,YES
+Saturday, Dec. 23,Trail Blazers , ,0.45,95,Lakers ,-1.5,0.55,92,-3,NO
+Saturday, Dec. 23,Kings , ,0.28,99,Spurs ,-5.5,0.72,108,9,YES
+Friday, Dec. 22,Magic , ,0.45,97,Pelicans ,-1,0.55,111,14,YES
+Friday, Dec. 22,Knicks , ,0.29,101,Pistons ,-5.5,0.71,104,3,NO
+Friday, Dec. 22,Nets , ,0.38,119,Wizards ,-3,0.62,84,-35,NO
+Friday, Dec. 22,Hawks , ,0.1,117,Thunder ,-13.5,0.9,120,3,NO
+Friday, Dec. 22,Hornets , ,0.29,104,Bucks ,-5.5,0.71,109,5,NO
+Friday, Dec. 22,Mavericks , ,0.29,101,Heat ,-5.5,0.71,113,12,YES
+Friday, Dec. 22,Clippers , ,0.12,128,Rockets ,-12,0.88,118,-10,NO
+Friday, Dec. 22,Nuggets , ,0.37,102,Trail Blazers ,-3,0.63,85,-17,NO
+Friday, Dec. 22,Lakers , ,0.07,106,Warriors ,-16,0.93,113,7,NO
+Thursday, Dec. 21,Bulls , ,0.1,112,Cavaliers ,-13.5,0.9,115,3,NO
+Thursday, Dec. 21,76ers , ,0.46,109,Raptors ,-1,0.54,114,5,YES
+Thursday, Dec. 21,Celtics , PK,0.5,93,Knicks ,0,0.5,102,9,YES
+Thursday, Dec. 21,Grizzlies , ,0.36,95,Suns ,-3.5,0.64,97,2,NO
+Thursday, Dec. 21,Spurs , ,0.43,89,Jazz ,-2,0.57,100,11,YES
+Wednesday, Dec. 20,Hornets , ,0.42,111,Raptors ,-2,0.58,129,18,YES
+Wednesday, Dec. 20,Hawks , ,0.38,95,Pacers ,-3,0.62,105,10,YES
+Wednesday, Dec. 20,Heat , ,0.24,90,Celtics ,-7,0.76,89,-1,NO
+Wednesday, Dec. 20,Kings , ,0.27,104,Nets ,-6,0.73,99,-5,NO
+Wednesday, Dec. 20,Lakers , ,0.08,122,Rockets ,-15,0.92,116,-6,NO
+Wednesday, Dec. 20,Magic , ,0.38,94,Bulls ,-3,0.62,112,18,YES
+Wednesday, Dec. 20,Jazz , ,0.33,79,Thunder ,-4.5,0.67,107,28,YES
+Wednesday, Dec. 20,Pistons , ,0.45,93,Mavericks ,-1.5,0.55,110,17,YES
+Wednesday, Dec. 20,T'wolves, ,0.33,112,Nuggets ,-4.5,0.67,104,-8,NO
+Wednesday, Dec. 20,Spurs , ,0.48,93,Trail Blazers ,-0.5,0.52,91,-2,NO
+Wednesday, Dec. 20,Grizzlies , ,0.05,84,Warriors ,-17.5,0.95,97,13,NO
+Wednesday, Dec. 20,Suns , ,0.27,95,Clippers ,-6,0.73,108,13,YES
+Tuesday, Dec. 19,Pelicans , ,0.32,106,Wizards ,-4.5,0.68,116,10,YES
+Tuesday, Dec. 19,Kings , ,0.25,101,76ers ,-7,0.75,95,-6,NO
+Tuesday, Dec. 19,Bucks , ,0.45,119,Cavaliers ,-1.5,0.55,116,-3,NO
+Monday, Dec. 18,Pacers , ,0.44,111,Celtics ,-1.5,0.56,112,1,NO
+Monday, Dec. 18,Knicks , ,0.36,91,Hornets ,-3.5,0.64,109,18,YES
+Monday, Dec. 18,Hawks , ,0.37,110,Heat ,-3,0.63,104,-6,NO
+Monday, Dec. 18,Nuggets , ,0.33,94,Thunder ,-4,0.67,95,1,NO
+Monday, Dec. 18,Bulls , ,0.48,117,76ers ,-0.5,0.52,115,-2,NO
+Monday, Dec. 18,Trail Blazers , ,0.32,107,T'wolves,-4.5,0.68,108,1,NO
+Monday, Dec. 18,Jazz , ,0.17,99,Rockets ,-10,0.83,120,21,YES
+Monday, Dec. 18,Clippers , ,0.2,91,Spurs ,-8.5,0.8,109,18,YES
+Monday, Dec. 18,Suns , ,0.28,97,Mavericks ,-6,0.72,91,-6,NO
+Monday, Dec. 18,Lakers , ,0.17,114,Warriors ,-10,0.83,116,2,NO
+Sunday, Dec. 17,Kings , ,0.1,93,Raptors ,-13.5,0.9,108,15,YES
+Sunday, Dec. 17,Magic , ,0.25,110,Pistons ,-7,0.75,114,4,NO
+Sunday, Dec. 17,Cavaliers , ,0.41,106,Wizards ,-2.5,0.59,99,-7,NO
+Sunday, Dec. 17,Nets , ,0.49,97,Pacers ,0,0.51,109,12,YES
+Saturday, Dec. 16,Trail Blazers , ,0.43,93,Hornets ,-2,0.57,91,-2,NO
+Saturday, Dec. 16,Thunder , ,0.48,96,Knicks ,-0.5,0.52,111,15,YES
+Saturday, Dec. 16,Jazz , ,0.22,100,Cavaliers ,-7.5,0.78,109,9,YES
+Saturday, Dec. 16,Clippers , ,0.34,85,Heat ,-4,0.66,90,5,YES
+Saturday, Dec. 16,Bucks , ,0.14,111,Rockets ,-11,0.86,115,4,NO
+Saturday, Dec. 16,Suns , ,0.14,108,T'wolves,-11,0.86,106,-2,NO
+Saturday, Dec. 16,Mavericks , ,0.22,96,Spurs ,-8,0.78,98,2,NO
+Saturday, Dec. 16,Grizzlies , ,0.36,93,Celtics ,-3.5,0.64,102,9,YES
+Friday, Dec. 15,Pistons , ,0.26,104,Pacers ,-6.5,0.74,98,-6,NO
+Friday, Dec. 15,Clippers , ,0.27,91,Wizards ,-6,0.73,100,9,YES
+Friday, Dec. 15,Heat , ,0.38,104,Hornets ,-3,0.62,98,-6,NO
+Friday, Dec. 15,Thunder , ,0.48,119,76ers ,-0.5,0.52,117,-2,NO
+Friday, Dec. 15,Magic , ,0.48,88,Trail Blazers ,-0.5,0.52,95,7,YES
+Friday, Dec. 15,Nets , ,0.12,87,Raptors ,-12.5,0.88,120,33,YES
+Friday, Dec. 15,Jazz , ,0.27,107,Celtics ,-6,0.73,95,-12,NO
+Friday, Dec. 15,Hawks , ,0.22,94,Grizzlies ,-7.5,0.78,96,2,NO
+Friday, Dec. 15,Bulls , ,0.18,115,Bucks ,-9,0.82,109,-6,NO
+Friday, Dec. 15,Pelicans , ,0.29,111,Nuggets ,-5.5,0.71,117,6,YES
+Friday, Dec. 15,Spurs , ,0.23,109,Rockets ,-7.5,0.77,124,15,YES
+Thursday, Dec. 14,Hawks , ,0.44,91,Pistons ,-1.5,0.56,105,14,YES
+Thursday, Dec. 14,Knicks , ,0.41,111,Nets ,-2,0.59,104,-7,NO
+Thursday, Dec. 14,Lakers , ,0.15,112,Cavaliers ,-11,0.85,121,9,NO
+Thursday, Dec. 14,Kings , ,0.13,96,T'wolves,-11.5,0.87,119,23,YES
+Thursday, Dec. 14,Mavericks , ,0.07,97,Warriors ,-15.5,0.93,112,15,NO
+Wednesday, Dec. 13,Clippers , ,0.41,106,Magic ,-2,0.59,95,-11,NO
+Wednesday, Dec. 13,Grizzlies , ,0.23,87,Wizards ,-7,0.77,93,6,NO
+Wednesday, Dec. 13,Thunder , ,0.42,100,Pacers ,-2,0.58,95,-5,NO
+Wednesday, Dec. 13,Nuggets , ,0.24,118,Celtics ,-7,0.76,124,6,NO
+Wednesday, Dec. 13,Trail Blazers , ,0.36,102,Heat ,-3.5,0.64,95,-7,NO
+Wednesday, Dec. 13,Bucks , ,0.39,108,Pelicans ,-2.5,0.61,115,7,YES
+Wednesday, Dec. 13,Bulls , ,0.37,103,Jazz ,-3.5,0.63,100,-3,NO
+Wednesday, Dec. 13,Suns , ,0.23,109,Raptors ,-7,0.77,115,6,NO
+Wednesday, Dec. 13,Hornets , ,0.13,96,Rockets ,-12,0.87,108,12,NO
+Tuesday, Dec. 12,Hawks , ,0.09,114,Cavaliers ,-14,0.91,123,9,NO
+Tuesday, Dec. 12,Nuggets , ,0.41,103,Pistons ,-2,0.59,84,-19,NO
+Tuesday, Dec. 12,Lakers , ,0.35,109,Knicks ,-4,0.65,113,4,NO
+Tuesday, Dec. 12,Nets , ,0.42,103,Wizards ,-2,0.58,98,-5,NO
+Tuesday, Dec. 12,Mavericks , ,0.37,95,Spurs ,-3,0.63,89,-6,NO
+Tuesday, Dec. 12,76ers , ,0.24,118,T'wolves,-7,0.76,112,-6,NO
+Tuesday, Dec. 12,Suns , ,0.41,92,Kings ,-2.5,0.59,99,7,YES
+Monday, Dec. 11,Bulls , ,0.27,108,Celtics ,-6,0.73,85,-23,NO
+Monday, Dec. 11,Hornets , ,0.2,116,Thunder ,-8.5,0.8,103,-13,NO
+Monday, Dec. 11,Heat , ,0.44,107,Grizzlies ,-1.5,0.56,82,-25,NO
+Monday, Dec. 11,Pelicans , ,0.13,123,Rockets ,-12,0.87,130,7,NO
+Monday, Dec. 11,Trail Blazers , ,0.11,104,Warriors ,-12.5,0.89,111,7,NO
+Monday, Dec. 11,Clippers , ,0.46,96,Raptors ,-1,0.54,91,-5,NO
+Sunday, Dec. 10,Kings , ,0.25,87,Raptors ,-6.5,0.75,102,15,YES
+Sunday, Dec. 10,Pistons , ,0.46,81,Celtics ,-1,0.54,91,10,YES
+Sunday, Dec. 10,Nuggets , ,0.38,116,Pacers ,-3,0.62,126,10,YES
+Sunday, Dec. 10,Mavericks , ,0.21,92,T'wolves,-8,0.79,97,5,NO
+Sunday, Dec. 10,76ers , ,0.28,124,Pelicans ,-6,0.72,131,7,YES
+Sunday, Dec. 10,Hawks , ,0.24,107,Knicks ,-7,0.76,111,4,NO
+Saturday, Dec. 9,Clippers , ,0.48,113,Wizards ,-0.5,0.52,112,-1,NO
+Saturday, Dec. 9,Nets , ,0.44,89,Heat ,-1.5,0.56,101,12,YES
+Saturday, Dec. 9,Lakers , ,0.34,110,Hornets ,-4,0.66,99,-11,NO
+Saturday, Dec. 9,Magic , ,0.45,110,Hawks ,-1.5,0.55,117,7,YES
+Saturday, Dec. 9,Bulls , ,0.39,104,Knicks ,-2.5,0.61,102,-2,NO
+Saturday, Dec. 9,76ers , ,0.26,98,Cavaliers ,-6.5,0.74,105,7,YES
+Saturday, Dec. 9,Jazz , ,0.47,100,Bucks ,-0.5,0.53,117,17,YES
+Saturday, Dec. 9,Grizzlies , ,0.34,101,Thunder ,-4,0.66,102,1,NO
+Saturday, Dec. 9,Suns , ,0.38,101,Spurs ,-3,0.62,104,3,NO
+Saturday, Dec. 9,Trail Blazers , ,0.34,117,Rockets ,-4,0.66,124,7,YES
+Friday, Dec. 8,Bulls , ,0.15,119,Hornets ,-10.5,0.85,111,-8,NO
+Friday, Dec. 8,Pacers , ,0.47,106,Cavaliers ,-1,0.53,102,-4,NO
+Friday, Dec. 8,Nuggets , ,0.47,103,Magic ,-0.5,0.53,89,-14,NO
+Friday, Dec. 8,Pistons , ,0.26,98,Warriors ,-6.5,0.74,102,4,NO
+Friday, Dec. 8,Mavericks , ,0.26,102,Bucks ,-6.5,0.74,109,7,YES
+Friday, Dec. 8,Kings , ,0.15,116,Pelicans ,-10.5,0.85,109,-7,NO
+Friday, Dec. 8,Grizzlies , ,0.36,107,Raptors ,-3.5,0.64,116,9,YES
+Friday, Dec. 8,Celtics , ,0.38,102,Spurs ,-3,0.62,105,3,NO
+Thursday, Dec. 7,Lakers , ,0.23,107,76ers ,-7.5,0.77,104,-3,NO
+Thursday, Dec. 7,Suns , ,0.39,99,Wizards ,-2.5,0.61,109,10,YES
+Thursday, Dec. 7,Nets , ,0.24,100,Thunder ,-7,0.76,95,-5,NO
+Thursday, Dec. 7,Jazz , ,0.49,101,Rockets ,-0.5,0.51,112,11,YES
+Wednesday, Dec. 6,Hawks , ,0.23,106,Magic ,-7.5,0.77,110,4,NO
+Wednesday, Dec. 6,Bulls , ,0.15,96,Pacers ,-11,0.85,98,2,NO
+Wednesday, Dec. 6,Kings , ,0.09,95,Cavaliers ,-14,0.91,101,6,NO
+Wednesday, Dec. 6,Mavericks , ,0.15,90,Celtics ,-10.5,0.85,97,7,NO
+Wednesday, Dec. 6,Grizzlies , ,0.36,88,Knicks ,-3.5,0.64,99,11,YES
+Wednesday, Dec. 6,Nuggets , ,0.37,114,Pelicans ,-3.5,0.63,123,9,YES
+Wednesday, Dec. 6,Pistons , ,0.34,100,Bucks ,-4,0.66,104,4,NO
+Wednesday, Dec. 6,Hornets , ,0.28,87,Warriors ,-6,0.72,101,14,YES
+Wednesday, Dec. 6,Heat , ,0.2,105,Spurs ,-8.5,0.8,117,12,YES
+Wednesday, Dec. 6,Clippers , ,0.49,107,T'wolves,-0.5,0.51,113,6,YES
+Tuesday, Dec. 5,Suns , ,0.1,113,Raptors ,-13,0.9,126,13,NO
+Tuesday, Dec. 5,Jazz , ,0.26,94,Thunder ,-6.5,0.74,100,6,NO
+Tuesday, Dec. 5,Wizards , ,0.31,106,Trail Blazers ,-5,0.69,92,-14,NO
+Monday, Dec. 4,Knicks , ,0.24,97,Pacers ,-7,0.76,115,18,YES
+Monday, Dec. 4,Magic , ,0.25,94,Hornets ,-7,0.75,104,10,YES
+Monday, Dec. 4,Suns , ,0.18,115,76ers ,-9.5,0.82,101,-14,NO
+Monday, Dec. 4,Nets , ,0.41,110,Hawks ,-2,0.59,90,-20,NO
+Monday, Dec. 4,Bucks , ,0.23,100,Celtics ,-7.5,0.77,111,11,YES
+Monday, Dec. 4,Bulls , ,0.22,91,Cavaliers ,-7.5,0.78,113,22,YES
+Monday, Dec. 4,Pelicans , ,0.36,115,Warriors ,-3.5,0.64,125,10,YES
+Monday, Dec. 4,Grizzlies , ,0.49,95,T'wolves,0,0.51,92,-3,NO
+Monday, Dec. 4,Mavericks , ,0.48,122,Nuggets ,-0.5,0.52,105,-17,NO
+Monday, Dec. 4,Pistons , ,0.29,93,Spurs ,-5.5,0.71,96,3,NO
+Monday, Dec. 4,Wizards , ,0.3,69,Jazz ,-5,0.7,116,47,YES
+Sunday, Dec. 3,Magic , ,0.34,105,Knicks ,-4,0.66,100,-5,NO
+Sunday, Dec. 3,Heat , ,0.26,95,Warriors ,-6.5,0.74,123,28,YES
+Sunday, Dec. 3,Clippers , ,0.19,106,T'wolves,-9,0.81,112,6,NO
+Sunday, Dec. 3,Spurs , ,0.37,87,Thunder ,-3,0.63,90,3,NO
+Sunday, Dec. 3,Lakers , ,0.2,95,Rockets ,-8.5,0.8,118,23,YES
+Saturday, Dec. 2,Suns , ,0.11,111,Celtics ,-13,0.89,116,5,NO
+Saturday, Dec. 2,Clippers , ,0.46,82,Mavericks ,-1,0.54,108,26,YES
+Saturday, Dec. 2,Hawks , ,0.27,114,Nets ,-6,0.73,102,-12,NO
+Saturday, Dec. 2,Pistons , ,0.29,103,76ers ,-5.5,0.71,108,5,NO
+Saturday, Dec. 2,Grizzlies , ,0.13,111,Cavaliers ,-12,0.87,116,5,NO
+Saturday, Dec. 2,Kings , ,0.14,104,Bucks ,-11.5,0.86,109,5,NO
+Saturday, Dec. 2,Lakers , ,0.17,100,Nuggets ,-9.5,0.83,115,15,YES
+Saturday, Dec. 2,Pelicans , ,0.28,123,Trail Blazers ,-6,0.72,116,-7,NO
+Friday, Dec. 1,Pistons , ,0.33,91,Wizards ,-4.5,0.67,109,18,YES
+Friday, Dec. 1,Magic , ,0.24,112,Warriors ,-7,0.76,133,21,YES
+Friday, Dec. 1,Pacers , ,0.23,115,Raptors ,-7.5,0.77,120,5,NO
+Friday, Dec. 1,Hornets , ,0.4,100,Heat ,-2.5,0.6,105,5,YES
+Friday, Dec. 1,T'wolves, ,0.34,107,Thunder ,-4,0.66,111,4,NO
+Friday, Dec. 1,Grizzlies , ,0.41,79,Spurs ,-2,0.59,95,16,YES
+Friday, Dec. 1,Kings , ,0.44,107,Bulls ,-1.5,0.56,106,-1,NO
+Friday, Dec. 1,Pelicans , ,0.33,108,Jazz ,-4,0.67,114,6,YES
+Thursday, Nov. 30,Hawks , ,0.25,114,Cavaliers ,-6.5,0.75,121,7,YES
+Thursday, Nov. 30,76ers , ,0.21,97,Celtics ,-8,0.79,108,11,YES
+Thursday, Nov. 30,Bulls , ,0.11,110,Nuggets ,-13,0.89,111,1,NO
+Thursday, Nov. 30,Bucks , ,0.3,103,Trail Blazers ,-5,0.7,91,-12,NO
+Thursday, Nov. 30,Jazz , ,0.41,126,Clippers ,-2.5,0.59,107,-19,NO
+Wednesday, Nov. 29,Magic , ,0.38,121,Thunder ,-3,0.62,108,-13,NO
+Wednesday, Nov. 29,Suns , ,0.16,107,Pistons ,-10.5,0.84,131,24,YES
+Wednesday, Nov. 29,Wizards , ,0.33,113,76ers ,-4.5,0.67,118,5,YES
+Wednesday, Nov. 29,Hornets , ,0.25,113,Raptors ,-7,0.75,126,13,YES
+Wednesday, Nov. 29,Heat , ,0.38,86,Knicks ,-3,0.62,115,29,YES
+Wednesday, Nov. 29,Pacers , ,0.16,97,Rockets ,-10,0.84,118,21,YES
+Wednesday, Nov. 29,T'wolves, ,0.32,120,Pelicans ,-4.5,0.68,102,-18,NO
+Wednesday, Nov. 29,Nets , ,0.33,109,Mavericks ,-4.5,0.67,104,-5,NO
+Wednesday, Nov. 29,Grizzlies , ,0.19,95,Spurs ,-9,0.81,104,9,NO
+Wednesday, Nov. 29,Lakers , ,0.2,123,Warriors ,-8.5,0.8,127,4,NO
+Tuesday, Nov. 28,Heat , ,0.28,97,Cavaliers ,-6,0.72,108,11,YES
+Tuesday, Nov. 28,Suns , ,0.41,104,Bulls ,-2.5,0.59,99,-5,NO
+Tuesday, Nov. 28,Wizards , ,0.33,92,T'wolves,-4.5,0.67,89,-3,NO
+Tuesday, Nov. 28,Nuggets , ,0.36,77,Jazz ,-3.5,0.64,106,29,YES
+Tuesday, Nov. 28,Kings , ,0.36,87,Bucks ,-3.5,0.64,112,25,YES
+Monday, Nov. 27,Cavaliers , ,0.43,113,76ers ,-2,0.57,91,-22,NO
+Monday, Nov. 27,Magic , ,0.27,109,Pacers ,-6,0.73,121,12,YES
+Monday, Nov. 27,Pistons , ,0.19,118,Celtics ,-9,0.81,108,-10,NO
+Monday, Nov. 27,Knicks , ,0.48,91,Trail Blazers ,-0.5,0.52,103,12,YES
+Monday, Nov. 27,Nets , ,0.07,103,Rockets ,-15.5,0.93,117,14,NO
+Monday, Nov. 27,Mavericks , ,0.18,108,Spurs ,-9.5,0.82,115,7,NO
+Monday, Nov. 27,Lakers , ,0.27,115,Clippers ,-6,0.73,120,5,NO
+Monday, Nov. 27,Kings , ,0.04,110,Warriors ,-19.5,0.96,106,-4,NO
+Sunday, Nov. 26,Bulls , ,0.39,93,Heat ,-2.5,0.61,100,7,YES
+Sunday, Nov. 26,Suns , ,0.15,108,T'wolves,-11,0.85,119,11,NO
+Sunday, Nov. 26,Nets , ,0.26,98,Grizzlies ,-6.5,0.74,88,-10,NO
+Saturday, Nov. 25,Magic , ,0.19,111,76ers ,-8.5,0.81,130,19,YES
+Saturday, Nov. 25,Trail Blazers , ,0.3,108,Wizards ,-5,0.7,105,-3,NO
+Saturday, Nov. 25,Spurs , ,0.5,106,Hornets ,0,0.5,86,-20,NO
+Saturday, Nov. 25,Hawks , ,0.29,78,Raptors ,-5.5,0.71,112,34,YES
+Saturday, Nov. 25,Pacers , ,0.47,98,Celtics ,-0.5,0.53,108,10,YES
+Saturday, Nov. 25,Knicks , ,0.1,102,Rockets ,-13.5,0.9,117,15,YES
+Saturday, Nov. 25,Pelicans , ,0.14,95,Warriors ,-11,0.86,110,15,YES
+Saturday, Nov. 25,Mavericks , ,0.38,97,Thunder ,-3,0.62,81,-16,NO
+Saturday, Nov. 25,Bucks , ,0.29,108,Jazz ,-5.5,0.71,121,13,YES
+Saturday, Nov. 25,Kings , ,0.4,95,Clippers ,-2.5,0.6,97,2,NO
+Friday, Nov. 24,Nets , ,0.4,125,Trail Blazers ,-2.5,0.6,127,2,NO
+Friday, Nov. 24,Hawks , ,0.45,116,Knicks ,-1,0.55,104,-12,NO
+Friday, Nov. 24,Magic , ,0.16,103,Celtics ,-10,0.84,118,15,YES
+Friday, Nov. 24,Hornets , ,0.28,99,Cavaliers ,-6,0.72,100,1,NO
+Friday, Nov. 24,Pistons , ,0.18,99,Thunder ,-9,0.82,98,-1,NO
+Friday, Nov. 24,Heat , ,0.22,109,T'wolves,-7.5,0.78,97,-12,NO
+Friday, Nov. 24,Raptors , ,0.5,104,Pacers ,0,0.5,107,3,YES
+Friday, Nov. 24,Grizzlies , ,0.22,92,Nuggets ,-8,0.78,104,12,YES
+Friday, Nov. 24,Suns , ,0.43,91,Pelicans ,-2,0.57,115,24,YES
+Friday, Nov. 24,Bulls , ,0.05,94,Warriors ,-18.5,0.95,143,49,YES
+Wednesday, Nov. 22,Nets , ,0.15,109,Cavaliers ,-11,0.85,119,10,NO
+Wednesday, Nov. 22,Trail Blazers , ,0.39,81,76ers ,-3,0.61,101,20,YES
+Wednesday, Nov. 22,Wizards , ,0.4,124,Hornets ,-2.5,0.6,129,5,YES
+Wednesday, Nov. 22,Heat , ,0.38,104,Celtics ,-3,0.62,98,-6,NO
+Wednesday, Nov. 22,Hawks , ,0.43,103,Clippers ,-1.5,0.57,116,13,YES
+Wednesday, Nov. 22,Knicks , ,0.41,108,Raptors ,-2.5,0.59,100,-8,NO
+Wednesday, Nov. 22,Mavericks , ,0.27,95,Grizzlies ,-6,0.73,94,-1,NO
+Wednesday, Nov. 22,Nuggets , ,0.21,95,Rockets ,-8,0.79,125,30,YES
+Wednesday, Nov. 22,Thunder , ,0.42,108,Warriors ,-2,0.58,91,-17,NO
+Wednesday, Nov. 22,Magic , ,0.21,118,T'wolves,-8.5,0.79,124,6,NO
+Wednesday, Nov. 22,Spurs , ,0.46,90,Pelicans ,-1,0.54,107,17,YES
+Wednesday, Nov. 22,Bulls , ,0.12,80,Jazz ,-12,0.88,110,30,YES
+Wednesday, Nov. 22,Bucks , ,0.49,113,Suns ,0,0.51,107,-6,NO
+Wednesday, Nov. 22,Lakers , ,0.47,102,Kings ,-1,0.53,113,11,YES
+Tuesday, Nov. 21,Bulls , ,0.26,94,Lakers ,-6.5,0.74,103,9,YES
+Monday, Nov. 20,Pistons , ,0.48,88,Cavaliers ,-0.5,0.52,116,28,YES
+Monday, Nov. 20,Pacers , ,0.36,105,Magic ,-3.5,0.64,97,-8,NO
+Monday, Nov. 20,T'wolves, ,0.39,102,Hornets ,-2.5,0.61,118,16,YES
+Monday, Nov. 20,Jazz , ,0.36,86,76ers ,-3.5,0.64,107,21,YES
+Monday, Nov. 20,Clippers , ,0.46,85,Knicks ,-1,0.54,107,22,YES
+Monday, Nov. 20,Pelicans , ,0.46,114,Thunder ,-1,0.54,107,-7,NO
+Monday, Nov. 20,Trail Blazers , ,0.43,100,Grizzlies ,-1.5,0.57,92,-8,NO
+Monday, Nov. 20,Wizards , ,0.36,99,Bucks ,-3.5,0.64,88,-11,NO
+Monday, Nov. 20,Hawks , ,0.12,85,Spurs ,-12.5,0.88,96,11,NO
+Monday, Nov. 20,Mavericks , ,0.31,102,Celtics ,-5,0.69,110,8,YES
+Monday, Nov. 20,Kings , ,0.37,98,Nuggets ,-3,0.63,114,16,YES
+Sunday, Nov. 19,Wizards , ,0.28,91,Raptors ,-5.5,0.72,100,9,YES
+Sunday, Nov. 19,Pacers , ,0.34,120,Heat ,-4,0.66,95,-25,NO
+Sunday, Nov. 19,Nets , ,0.19,111,Warriors ,-9,0.81,118,7,NO
+Sunday, Nov. 19,Pistons , ,0.24,100,T'wolves,-7,0.76,97,-3,NO
+Sunday, Nov. 19,Bulls , ,0.31,105,Suns ,-5,0.69,113,8,YES
+Sunday, Nov. 19,Lakers , ,0.41,127,Nuggets ,-2,0.59,109,-18,NO
+Saturday, Nov. 18,Clippers , ,0.37,87,Hornets ,-3,0.63,102,15,YES
+Saturday, Nov. 18,Jazz , ,0.29,125,Magic ,-5.5,0.71,85,-40,NO
+Saturday, Nov. 18,Hawks , ,0.26,99,Celtics ,-6.5,0.74,110,11,YES
+Saturday, Nov. 18,76ers , ,0.27,116,Warriors ,-6,0.73,124,8,YES
+Saturday, Nov. 18,Grizzlies , ,0.39,83,Rockets ,-2.5,0.61,105,22,YES
+Saturday, Nov. 18,Mavericks , ,0.35,111,Bucks ,-4,0.65,79,-32,NO
+Saturday, Nov. 18,Kings , ,0.14,90,Trail Blazers ,-11,0.86,102,12,YES
+Friday, Nov. 17,Pistons , ,0.41,100,Pacers ,-2,0.59,107,7,YES
+Friday, Nov. 17,Heat , ,0.28,91,Wizards ,-6,0.72,88,-3,NO
+Friday, Nov. 17,Clippers , ,0.29,113,Cavaliers ,-5.5,0.71,118,5,NO
+Friday, Nov. 17,Knicks , ,0.19,84,Raptors ,-9,0.81,107,23,YES
+Friday, Nov. 17,Nets , ,0.46,118,Jazz ,-1,0.54,107,-11,NO
+Friday, Nov. 17,Bulls , ,0.39,123,Hornets ,-2.5,0.61,120,-3,NO
+Friday, Nov. 17,Thunder , ,0.43,101,Spurs ,-1.5,0.57,104,3,YES
+Friday, Nov. 17,Mavericks , ,0.35,87,T'wolves,-3.5,0.65,111,24,YES
+Friday, Nov. 17,Kings , ,0.29,86,Trail Blazers ,-5.5,0.71,82,-4,NO
+Friday, Nov. 17,Pelicans , ,0.27,114,Nuggets ,-6,0.73,146,32,YES
+Friday, Nov. 17,Suns , ,0.23,122,Lakers ,-7.5,0.77,113,-9,NO
+Thursday, Nov. 16,Celtics , ,0.43,92,Warriors ,-1.5,0.57,88,-4,NO
+Thursday, Nov. 16,Suns , ,0.25,116,Rockets ,-6.5,0.75,142,26,YES
+Wednesday, Nov. 15,Kings , ,0.37,80,Hawks ,-3.5,0.63,126,46,YES
+Wednesday, Nov. 15,Jazz , ,0.43,101,Knicks ,-1.5,0.57,106,5,YES
+Wednesday, Nov. 15,Wizards , ,0.44,102,Heat ,-1.5,0.56,93,-9,NO
+Wednesday, Nov. 15,Bulls , ,0.09,79,Thunder ,-14,0.91,92,13,NO
+Wednesday, Nov. 15,Cavaliers , ,0.41,115,Hornets ,-2.5,0.59,107,-8,NO
+Wednesday, Nov. 15,Pistons , ,0.33,95,Bucks ,-4.5,0.67,99,4,NO
+Wednesday, Nov. 15,Pacers , ,0.3,116,Grizzlies ,-5,0.7,113,-3,NO
+Wednesday, Nov. 15,Spurs , ,0.32,86,T'wolves,-4.5,0.68,98,12,YES
+Wednesday, Nov. 15,Raptors , ,0.38,125,Pelicans ,-3,0.62,116,-9,NO
+Wednesday, Nov. 15,Magic , ,0.31,94,Trail Blazers ,-5,0.69,99,5,NO
+Wednesday, Nov. 15,76ers , ,0.49,115,Lakers ,0,0.51,109,-6,NO
+Tuesday, Nov. 14,Nets , ,0.28,102,Celtics ,-6,0.72,109,7,YES
+Tuesday, Nov. 14,Raptors , ,0.21,129,Rockets ,-8,0.79,113,-16,NO
+Tuesday, Nov. 14,Mavericks , ,0.36,91,Spurs ,-3.5,0.64,97,6,YES
+Monday, Nov. 13,Kings , ,0.15,92,Wizards ,-10.5,0.85,110,18,YES
+Monday, Nov. 13,Cavaliers , PK,0.5,104,Knicks ,0,0.5,101,-3,NO
+Monday, Nov. 13,Hawks , ,0.14,105,Pelicans ,-11,0.86,106,1,NO
+Monday, Nov. 13,Grizzlies , ,0.34,103,Bucks ,-4,0.66,110,7,YES
+Monday, Nov. 13,Lakers , ,0.4,100,Suns ,-2.5,0.6,93,-7,NO
+Monday, Nov. 13,T'wolves, ,0.39,109,Jazz ,-3,0.61,98,-11,NO
+Monday, Nov. 13,Nuggets , ,0.4,82,Trail Blazers ,-2.5,0.6,99,17,YES
+Monday, Nov. 13,Magic , ,0.1,100,Warriors ,-13,0.9,110,10,NO
+Monday, Nov. 13,76ers , ,0.36,109,Clippers ,-3.5,0.64,105,-4,NO
+Sunday, Nov. 12,Raptors , ,0.3,94,Celtics ,-5.5,0.7,95,1,NO
+Sunday, Nov. 12,Heat , ,0.35,103,Pistons ,-4,0.65,112,9,YES
+Sunday, Nov. 12,Pacers , ,0.41,95,Rockets ,-2,0.59,118,23,YES
+Sunday, Nov. 12,Mavericks , ,0.1,99,Thunder ,-14,0.9,112,13,NO
+Saturday, Nov. 11,Hawks , ,0.12,94,Wizards ,-12.5,0.88,113,19,YES
+Saturday, Nov. 11,Clippers , ,0.31,103,Pelicans ,-5,0.69,111,8,YES
+Saturday, Nov. 11,Grizzlies , ,0.18,96,Rockets ,-9.5,0.82,111,15,YES
+Saturday, Nov. 11,Kings , ,0.25,91,Knicks ,-7,0.75,118,27,YES
+Saturday, Nov. 11,Bulls , ,0.12,94,Spurs ,-12,0.88,133,39,YES
+Saturday, Nov. 11,Mavericks , ,0.42,104,Cavaliers ,-2,0.58,111,7,YES
+Saturday, Nov. 11,Lakers , ,0.31,90,Bucks ,-5,0.69,98,8,YES
+Saturday, Nov. 11,76ers , ,0.11,114,Warriors ,-12.5,0.89,135,21,YES
+Saturday, Nov. 11,Nets , ,0.18,106,Jazz ,-9.5,0.82,114,8,NO
+Saturday, Nov. 11,Suns , ,0.29,118,T'wolves,-5.5,0.71,110,-8,NO
+Saturday, Nov. 11,Magic , ,0.2,107,Nuggets ,-8.5,0.8,125,18,YES
+Friday, Nov. 10,Hawks , ,0.17,104,Pistons ,-9.5,0.83,111,7,NO
+Friday, Nov. 10,Hornets , ,0.25,87,Celtics ,-6.5,0.75,90,3,NO
+Friday, Nov. 10,Pacers , ,0.5,105,Bulls ,0,0.5,87,-18,NO
+Friday, Nov. 10,Clippers , ,0.3,111,Thunder ,-5,0.7,120,9,YES
+Friday, Nov. 10,Heat , ,0.26,84,Jazz ,-6.5,0.74,74,-10,NO
+Friday, Nov. 10,Bucks , ,0.25,94,Spurs ,-7,0.75,87,-7,NO
+Friday, Nov. 10,Suns , ,0.49,112,Magic ,-0.5,0.51,128,16,YES
+Friday, Nov. 10,Nets , ,0.17,101,Trail Blazers ,-10,0.83,97,-4,NO
+Thursday, Nov. 9,Lakers , ,0.2,95,Wizards ,-8.5,0.8,111,16,YES
+Thursday, Nov. 9,Pelicans , ,0.33,118,Raptors ,-4.5,0.67,122,4,NO
+Thursday, Nov. 9,Cavaliers , ,0.21,113,Rockets ,-8,0.79,117,4,NO
+Thursday, Nov. 9,Kings , ,0.38,109,76ers ,-3,0.62,108,-1,NO
+Thursday, Nov. 9,Thunder , ,0.4,94,Nuggets ,-2.5,0.6,102,8,YES
+Wednesday, Nov. 8,Pacers , ,0.26,97,Pistons ,-6.5,0.74,114,17,YES
+Wednesday, Nov. 8,Knicks , ,0.24,99,Magic ,-7,0.76,112,13,YES
+Wednesday, Nov. 8,Lakers , ,0.16,96,Celtics ,-10,0.84,107,11,YES
+Wednesday, Nov. 8,Heat , ,0.46,126,Suns ,-1,0.54,115,-11,NO
+Wednesday, Nov. 8,T'wolves, ,0.16,101,Warriors ,-10.5,0.84,125,24,YES
+Tuesday, Nov. 7,Mavericks , ,0.16,113,Wizards ,-10,0.84,99,-14,NO
+Tuesday, Nov. 7,Bucks , ,0.32,119,Cavaliers ,-4.5,0.68,124,5,YES
+Tuesday, Nov. 7,Pelicans , ,0.45,117,Pacers ,-1,0.55,112,-5,NO
+Tuesday, Nov. 7,Hornets , ,0.5,113,Knicks ,0,0.5,118,5,YES
+Tuesday, Nov. 7,Bulls , ,0.15,114,Raptors ,-10.5,0.85,119,5,NO
+Tuesday, Nov. 7,Clippers , ,0.29,107,Spurs ,-5.5,0.71,120,13,YES
+Tuesday, Nov. 7,Nets , ,0.1,104,Nuggets ,-13,0.9,112,8,NO
+Tuesday, Nov. 7,76ers , ,0.27,104,Jazz ,-6,0.73,97,-7,NO
+Tuesday, Nov. 7,Grizzlies , ,0.31,98,Trail Blazers ,-5,0.69,97,-1,NO
+Tuesday, Nov. 7,Kings , ,0.2,94,Thunder ,-8.5,0.8,86,-8,NO
+Monday, Nov. 6,Hawks , ,0.26,107,Celtics ,-6.5,0.74,110,3,NO
+Monday, Nov. 6,Nets , ,0.37,98,Suns ,-3.5,0.63,92,-6,NO
+Monday, Nov. 6,Heat , ,0.07,80,Warriors ,-15.5,0.93,97,17,YES
+Sunday, Nov. 5,Hawks , ,0.13,117,Cavaliers ,-11.5,0.87,115,-2,NO
+Sunday, Nov. 5,Heat , ,0.3,104,Clippers ,-5,0.7,101,-3,NO
+Sunday, Nov. 5,Celtics , ,0.49,104,Magic ,-0.5,0.51,88,-16,NO
+Sunday, Nov. 5,Wizards , ,0.33,107,Raptors ,-4.5,0.67,96,-11,NO
+Sunday, Nov. 5,Suns , ,0.16,95,Spurs ,-10,0.84,112,17,YES
+Sunday, Nov. 5,Jazz , ,0.23,110,Rockets ,-7.5,0.77,137,27,YES
+Sunday, Nov. 5,Pacers , ,0.43,101,Knicks ,-1.5,0.57,108,7,YES
+Sunday, Nov. 5,Hornets , ,0.37,94,T'wolves,-3.5,0.63,112,18,YES
+Sunday, Nov. 5,Trail Blazers , ,0.49,103,Thunder ,0,0.51,99,-4,NO
+Sunday, Nov. 5,Grizzlies , ,0.42,102,Lakers ,-2,0.58,107,5,YES
+Saturday, Nov. 4,Grizzlies , ,0.27,113,Clippers ,-6,0.73,104,-9,NO
+Saturday, Nov. 4,Kings , ,0.22,99,Pistons ,-7.5,0.78,108,9,YES
+Saturday, Nov. 4,Mavericks , ,0.12,99,T'wolves,-12.5,0.88,112,13,YES
+Saturday, Nov. 4,Bulls , ,0.42,90,Pelicans ,-2,0.58,96,6,YES
+Saturday, Nov. 4,Nuggets , ,0.36,108,Warriors ,-3.5,0.64,127,19,YES
+Friday, Nov. 3,Bulls , ,0.14,105,Magic ,-11,0.86,83,-22,NO
+Friday, Nov. 3,Cavaliers , ,0.34,130,Wizards ,-4,0.66,122,-8,NO
+Friday, Nov. 3,Pacers , ,0.35,110,76ers ,-4,0.65,121,11,YES
+Friday, Nov. 3,Bucks , ,0.43,96,Pistons ,-2,0.57,105,9,YES
+Friday, Nov. 3,Hawks , ,0.21,104,Rockets ,-8,0.79,119,15,YES
+Friday, Nov. 3,Suns , ,0.36,107,Knicks ,-3.5,0.64,120,13,YES
+Friday, Nov. 3,Hornets , ,0.37,101,Spurs ,-3,0.63,108,7,YES
+Friday, Nov. 3,Mavericks , ,0.43,94,Pelicans ,-2,0.57,99,5,YES
+Friday, Nov. 3,Heat , ,0.19,94,Nuggets ,-9,0.81,95,1,NO
+Friday, Nov. 3,Raptors , ,0.32,109,Jazz ,-4.5,0.68,100,-9,NO
+Friday, Nov. 3,Celtics , ,0.25,101,Thunder ,-7,0.75,94,-7,NO
+Friday, Nov. 3,Nets , ,0.34,112,Lakers ,-4,0.66,124,12,YES
+Thursday, Nov. 2,Spurs , ,0.41,92,Warriors ,-2.5,0.59,112,20,YES
+Thursday, Nov. 2,Lakers , ,0.27,110,Trail Blazers ,-6,0.73,113,3,NO
+Wednesday, Nov. 1,Hawks , ,0.19,109,76ers ,-9,0.81,119,10,YES
+Wednesday, Nov. 1,Pacers , ,0.18,124,Cavaliers ,-9.5,0.82,107,-17,NO
+Wednesday, Nov. 1,Bucks , ,0.27,121,Hornets ,-6,0.73,126,5,NO
+Wednesday, Nov. 1,Suns , ,0.15,122,Wizards ,-10.5,0.85,116,-6,NO
+Wednesday, Nov. 1,Bulls , ,0.21,91,Heat ,-8,0.79,97,6,NO
+Wednesday, Nov. 1,Kings , ,0.09,86,Celtics ,-14,0.91,113,27,YES
+Wednesday, Nov. 1,Knicks , ,0.34,97,Rockets ,-4,0.66,119,22,YES
+Wednesday, Nov. 1,T'wolves, ,0.42,104,Pelicans ,-2,0.58,98,-6,NO
+Wednesday, Nov. 1,Magic , ,0.42,101,Grizzlies ,-2,0.58,99,-2,NO
+Wednesday, Nov. 1,Trail Blazers , ,0.3,103,Jazz ,-5,0.7,112,9,YES
+Wednesday, Nov. 1,Raptors , ,0.34,111,Nuggets ,-4,0.66,129,18,YES
+Wednesday, Nov. 1,Mavericks , ,0.17,98,Clippers ,-10,0.83,119,21,YES
+Tuesday, Oct. 31,Kings , ,0.22,83,Pacers ,-8,0.78,101,18,YES
+Tuesday, Oct. 31,Suns , ,0.35,122,Nets ,-3.5,0.65,114,-8,NO
+Tuesday, Oct. 31,Bucks , ,0.46,91,Thunder ,-1,0.54,110,19,YES
+Tuesday, Oct. 31,Pistons , ,0.49,93,Lakers ,-0.5,0.51,113,20,YES
+Monday, Oct. 30,Knicks , ,0.43,116,Nuggets ,-1.5,0.57,110,-6,NO
+Monday, Oct. 30,T'wolves, ,0.49,125,Heat ,-0.5,0.51,122,-3,NO
+Monday, Oct. 30,Spurs , ,0.35,94,Celtics ,-4,0.65,108,14,YES
+Monday, Oct. 30,Hornets , ,0.33,104,Grizzlies ,-4.5,0.67,99,-5,NO
+Monday, Oct. 30,Magic , ,0.27,115,Pelicans ,-6,0.73,99,-16,NO
+Monday, Oct. 30,76ers , ,0.16,115,Rockets ,-10,0.84,107,-8,NO
+Monday, Oct. 30,Mavericks , ,0.14,89,Jazz ,-11,0.86,104,15,YES
+Monday, Oct. 30,Raptors , ,0.34,99,Trail Blazers ,-4,0.66,85,-14,NO
+Monday, Oct. 30,Clippers , ,0.49,113,Warriors ,0,0.51,141,28,YES
+Sunday, Oct. 29,Hawks , ,0.38,106,Bucks ,-3,0.62,117,11,YES
+Sunday, Oct. 29,Pacers , ,0.4,97,Spurs ,-2.5,0.6,94,-3,NO
+Sunday, Oct. 29,Nets , ,0.4,111,Nuggets ,-2.5,0.6,124,13,YES
+Sunday, Oct. 29,Magic , ,0.35,113,Hornets ,-3.5,0.65,120,7,YES
+Sunday, Oct. 29,Kings , ,0.33,83,Wizards ,-4.5,0.67,110,27,YES
+Sunday, Oct. 29,Knicks , ,0.18,114,Cavaliers ,-9,0.82,95,-19,NO
+Sunday, Oct. 29,Pistons , ,0.08,115,Warriors ,-15,0.92,107,-8,NO
+Saturday, Oct. 28,Cavaliers , PK,0.5,101,Pelicans ,0,0.5,123,22,YES
+Saturday, Oct. 28,Celtics , ,0.49,96,Heat ,0,0.51,90,-6,NO
+Saturday, Oct. 28,Grizzlies , ,0.44,103,Rockets ,-1.5,0.56,89,-14,NO
+Saturday, Oct. 28,Bulls , ,0.29,69,Thunder ,-5.5,0.71,101,32,YES
+Saturday, Oct. 28,76ers , ,0.47,112,Mavericks ,-0.5,0.53,110,-2,NO
+Saturday, Oct. 28,Lakers , ,0.14,81,Jazz ,-11.5,0.86,96,15,YES
+Saturday, Oct. 28,Suns , ,0.16,107,Trail Blazers ,-10,0.84,114,7,NO
+Saturday, Oct. 28,Pistons , ,0.19,95,Clippers ,-9,0.81,87,-8,NO
+Friday, Oct. 27,Hornets , ,0.46,93,Rockets ,-1,0.54,109,16,YES
+Friday, Oct. 27,Magic , ,0.45,114,Spurs ,-1,0.55,87,-27,NO
+Friday, Oct. 27,Nets , ,0.41,86,Knicks ,-2.5,0.59,107,21,YES
+Friday, Oct. 27,Hawks , ,0.29,100,Nuggets ,-5.5,0.71,105,5,NO
+Friday, Oct. 27,Thunder , ,0.5,116,T'wolves,0,0.5,119,3,YES
+Friday, Oct. 27,Lakers , ,0.46,92,Raptors ,-1,0.54,101,9,YES
+Friday, Oct. 27,Wizards , ,0.16,117,Warriors ,-10,0.84,120,3,NO
+Thursday, Oct. 26,Hawks , ,0.37,86,Bulls ,-3.5,0.63,91,5,YES
+Thursday, Oct. 26,Celtics , ,0.38,96,Bucks ,-3,0.62,89,-7,NO
+Thursday, Oct. 26,Mavericks , ,0.24,91,Grizzlies ,-7,0.76,96,5,NO
+Thursday, Oct. 26,Clippers , ,0.4,104,Trail Blazers ,-2.5,0.6,103,-1,NO
+Thursday, Oct. 26,Kings , ,0.39,106,Pelicans ,-3,0.61,114,8,YES
+Wednesday, Oct. 25,Nuggets , ,0.39,93,Hornets ,-2.5,0.61,110,17,YES
+Wednesday, Oct. 25,76ers , ,0.36,104,Rockets ,-3.5,0.64,105,1,NO
+Wednesday, Oct. 25,T'wolves, ,0.48,101,Pistons ,-0.5,0.52,122,21,YES
+Wednesday, Oct. 25,Nets , ,0.29,112,Cavaliers ,-5.5,0.71,107,-5,NO
+Wednesday, Oct. 25,Pacers , ,0.11,96,Thunder ,-12.5,0.89,114,18,YES
+Wednesday, Oct. 25,Heat , ,0.45,100,Spurs ,-1,0.55,117,17,YES
+Wednesday, Oct. 25,Mavericks , ,0.45,103,Grizzlies ,-1,0.55,94,-9,NO
+Wednesday, Oct. 25,Suns , ,0.44,97,Jazz ,-1.5,0.56,88,-9,NO
+Wednesday, Oct. 25,Raptors , ,0.15,112,Warriors ,-10.5,0.85,117,5,NO
+Wednesday, Oct. 25,Lakers , ,0.42,102,Wizards ,-2,0.58,99,-3,NO
+Tuesday, Oct. 24,Nets , ,0.24,121,Magic ,-7,0.76,125,4,NO
+Tuesday, Oct. 24,Bulls , ,0.09,112,Cavaliers ,-14,0.91,119,7,NO
+Tuesday, Oct. 24,Knicks , ,0.18,89,Celtics ,-9,0.82,110,21,YES
+Tuesday, Oct. 24,Pacers , ,0.14,130,T'wolves,-11,0.86,107,-23,NO
+Tuesday, Oct. 24,Pelicans , ,0.33,93,Trail Blazers ,-4.5,0.67,103,10,YES
+Tuesday, Oct. 24,Jazz , ,0.35,84,Clippers ,-4,0.65,102,18,YES
+Monday, Oct. 23,76ers , ,0.37,97,Pistons ,-3,0.63,86,-11,NO
+Monday, Oct. 23,Hawks , ,0.17,93,Heat ,-10,0.83,104,11,YES
+Monday, Oct. 23,Hornets , ,0.36,94,Bucks ,-3.5,0.64,103,9,YES
+Monday, Oct. 23,Grizzlies , ,0.15,98,Rockets ,-10.5,0.85,90,-8,NO
+Monday, Oct. 23,Mavericks , ,0.18,103,Warriors ,-9,0.82,133,30,YES
+Monday, Oct. 23,Raptors , ,0.28,97,Spurs ,-6,0.72,101,4,NO
+Monday, Oct. 23,Wizards , ,0.28,109,Nuggets ,-5.5,0.72,104,-5,NO
+Monday, Oct. 23,Kings , ,0.34,115,Suns ,-4,0.66,117,2,NO
+Sunday, Oct. 22,Hawks , ,0.33,104,Nets ,-4.5,0.67,116,12,YES
+Sunday, Oct. 22,T'wolves, ,0.35,115,Thunder ,-4,0.65,113,-2,NO
+Sunday, Oct. 22,Pelicans , ,0.5,119,Lakers ,0,0.5,112,-7,NO
+Saturday, Oct. 21,76ers , ,0.22,94,Raptors ,-7.5,0.78,128,34,YES
+Saturday, Oct. 21,Mavericks , ,0.08,91,Rockets ,-15,0.92,107,16,YES
+Saturday, Oct. 21,Pistons , ,0.38,111,Knicks ,-3,0.62,107,-4,NO
+Saturday, Oct. 21,Grizzlies , ,0.3,111,Warriors ,-5,0.7,101,-10,NO
+Saturday, Oct. 21,Pacers , ,0.22,108,Heat ,-8,0.78,112,4,NO
+Saturday, Oct. 21,Magic , ,0.15,114,Cavaliers ,-11,0.85,93,-21,NO
+Saturday, Oct. 21,Bulls , ,0.28,77,Spurs ,-6,0.72,87,10,YES
+Saturday, Oct. 21,Trail Blazers , ,0.42,110,Bucks ,-2,0.58,113,3,YES
+Saturday, Oct. 21,Jazz , ,0.48,96,Thunder ,-0.5,0.52,87,-9,NO
+Saturday, Oct. 21,Kings , ,0.09,79,Nuggets ,-14,0.91,96,17,YES
+Saturday, Oct. 21,Suns , ,0.12,88,Clippers ,-12.5,0.88,130,42,YES
+Friday, Oct. 20,Hawks , ,0.17,91,Hornets ,-9.5,0.83,109,18,YES
+Friday, Oct. 20,Celtics , ,0.45,102,76ers ,-1,0.55,92,-10,NO
+Friday, Oct. 20,Bucks , ,0.48,97,Cavaliers ,-0.5,0.52,116,19,YES
+Friday, Oct. 20,Pistons , ,0.23,111,Wizards ,-7.5,0.77,115,4,NO
+Friday, Oct. 20,Pacers , ,0.45,96,Trail Blazers ,-1,0.55,114,18,YES
+Friday, Oct. 20,Magic , ,0.49,121,Nets ,0,0.51,126,5,YES
+Friday, Oct. 20,Jazz , ,0.32,97,T'wolves,-4.5,0.68,100,3,NO
+Friday, Oct. 20,Kings , ,0.29,93,Mavericks ,-5.5,0.71,88,-5,NO
+Friday, Oct. 20,Pelicans , ,0.32,120,Warriors ,-4.5,0.68,128,8,YES
+Friday, Oct. 20,Lakers , ,0.34,132,Suns ,-4,0.66,130,-2,NO
+Thursday, Oct. 19,Bulls , ,0.16,100,Raptors ,-10,0.84,117,17,YES
+Thursday, Oct. 19,Knicks , ,0.1,84,Thunder ,-13.5,0.9,105,21,YES
+Thursday, Oct. 19,Lakers , ,0.43,92,Clippers ,-1.5,0.57,108,16,YES
+Wednesday, Oct. 18,Nets , ,0.32,131,Pacers ,-4.5,0.68,140,9,YES
+Wednesday, Oct. 18,Pistons , ,0.48,102,Hornets ,-0.5,0.52,90,-12,NO
+Wednesday, Oct. 18,Heat , ,0.4,109,Magic ,-2.5,0.6,116,7,YES
+Wednesday, Oct. 18,76ers , ,0.28,115,Wizards ,-6,0.72,120,5,NO
+Wednesday, Oct. 18,Bucks , ,0.41,108,Celtics ,-2.5,0.59,100,-8,NO
+Wednesday, Oct. 18,Pelicans , ,0.47,91,Grizzlies ,-0.5,0.53,103,12,YES
+Wednesday, Oct. 18,Hawks , ,0.28,117,Mavericks ,-6,0.72,111,-6,NO
+Wednesday, Oct. 18,Nuggets , ,0.34,96,Jazz ,-4,0.66,106,10,YES
+Wednesday, Oct. 18,T'wolves, ,0.36,99,Spurs ,-3.5,0.64,107,8,YES
+Wednesday, Oct. 18,Kings , ,0.24,100,Rockets ,-7,0.76,105,5,NO
+Wednesday, Oct. 18,Suns , ,0.49,76,Trail Blazers ,0,0.51,124,48,YES
+Tuesday, Oct. 17,Celtics , ,0.24,99,Cavaliers ,-7,0.76,102,3,NO
+Tuesday, Oct. 17,Rockets , ,0.25,122,Warriors ,-6.5,0.75,121,-1,NO
